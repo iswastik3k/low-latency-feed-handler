@@ -1,0 +1,6 @@
+benchmark,value
+latency,273
+throughput,4.37036e+07
+jitter_min,33
+jitter_max,214
+jitter_avg,36.871
