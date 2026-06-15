@@ -1,6 +1,6 @@
 benchmark,value
-latency,273
-throughput,4.37036e+07
-jitter_min,33
-jitter_max,214
-jitter_avg,36.871
+latency,276
+throughput,4.56448e+07
+jitter_min,34
+jitter_max,100
+jitter_avg,37.632
