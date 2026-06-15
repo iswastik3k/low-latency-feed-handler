@@ -68,9 +68,9 @@ python scripts/plot_results.py
 
 | Metric       | Value           |
 |--------------|-----------------|
-| Latency      | 721 ns          |
+| Latency      | 276 ns          |
 | Jitter (avg) | 38 ns           |
-| Throughput   | 42.5M ticks/sec |
+| Throughput   | 45.5M ticks/sec |
 
 ### Charts
 ![Latency/Jitter/Throughput](reports/plots/latency_jitter_throughput_dual_axis_bar.png)
