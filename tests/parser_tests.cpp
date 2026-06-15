@@ -1,6 +1,7 @@
-#include "parser/simple_feed_parser.cpp"
+#include "parser/simple_feed_parser.hpp"
 #include <cassert>
 #include <iostream>
+#include <cstring>
 
 int main() {
     parser::SimpleFeedParser parser;
