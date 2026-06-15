@@ -8,8 +8,8 @@ This project demonstrates expertise in **network I/O optimization, memory alignm
 ## Roadmap
 
 - [x] Phase 01: Project Scaffold & Roadmap
-- [ ] Phase 02: Network I/O Layer
-- [ ] Phase 03: Binary Protocol Parser
+- [x] Phase 02: Network I/O Layer
+- [x] Phase 03: Binary Protocol Parser
 - [ ] Phase 04: In-Memory Lock-Free Structures
 - [ ] Phase 05: SIMD/Vectorization Optimizations
 - [ ] Phase 06: Latency Benchmarking Harness
